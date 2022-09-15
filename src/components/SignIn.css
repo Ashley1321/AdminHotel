@@ -1,0 +1,30 @@
+.loginDiv{
+    position: absolute;
+    left: 800px;
+    top: 250px;
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.SignIn{
+    position: absolute;
+    left: 145px;
+    top: 16px;  
+}
+.textboxes{
+    position: absolute;
+    top: 200px;
+    left: 115px;
+    
+}
+.textbox{
+    position: absolute;
+    top: 200px;
+    left: 115px;
+}
+.firstName{
+    width: 400px;
+    height: 35px;
+}

@@ -1,0 +1,51 @@
+.from{
+    margin-top: 1%;
+   
+}
+#outlined-basic{
+    margin-top: 20px;
+    width: 500px;
+    color: black;
+    
+}
+.textfileds{
+    align-items: center;
+    justify-content: center;
+    margin-left: 38%;
+    color: black;
+    
+
+}
+.Heading{
+    margin-left: 100px;
+    color: black;
+}
+#myButton{
+    position: absolute;
+    left: 50%;
+    margin-top: 40px;
+    width: 200px;
+    background-color:black;
+}
+#link{
+    margin-left: 70%;
+}
+.appBar{
+    height: 200px;
+    justify-content: center;
+}
+.Total{
+    display: none;
+}
+.MainDiv{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(248, 248, 248, 0.2) 100%), linear-gradient(180deg, #000000 0%, #FFFFFF 100%), linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(237, 228, 228, 0) 100%), linear-gradient(180deg, #000000 0%, #FFFFFF 100%);
+}
+.firstHotel {
+    color: white;
+    position: absolute;
+    width: 1500px;
+    height: 200px;
+    left: 40px;
+    top: 350px;
+    background: linear-gradient(180deg, #000000 0%, #737373 100%);
+}
