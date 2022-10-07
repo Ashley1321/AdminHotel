@@ -105,7 +105,7 @@ const AddHotel = () => {
     addDoc(addHotelRef, hotels).then(() => {
       console.log('added')
       alert('Successfully Booked')
-      history("/admin")
+      history.push("/admin")
     }).catch((errr) => {
       console.log(errr)
     })
